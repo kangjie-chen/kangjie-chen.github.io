@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+# title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ I am a Ph.D. candidate at School of Computer Science and Engineering, Nanyang Te
 - Reinforcement Learning
 
 <br/>
-<br/>
+
 
 # Publications
 
