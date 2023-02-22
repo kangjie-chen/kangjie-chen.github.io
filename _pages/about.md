@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at School of Computer Science and Engineering, Nanyang Technological University, Singapore. My academic supervisors is Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.Eng. degree from Tianjin University in 2019 and my B.Eng. degree from University of Electronic Science and Technology of China (UESTC) in 2015. 
+I am a Ph.D. candidate at Nanyang Technological University, supervised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.Eng. degree from Tianjin University (TJU) and my B.Eng. degree from University of Electronic Science and Technology of China (UESTC). 
 
 ## Research Interests
 - Machine Learning Security and Privacy
@@ -66,3 +66,10 @@ I am a Ph.D. candidate at School of Computer Science and Engineering, Nanyang Te
   Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, <u>Kangjie Chen</u>, Yang Liu
   <br/>
   *Proceedings of the AAAI Conference on Artificial Intelligence, Apr 2020*
+
+
+
+<!-- ## Invited Talks -->
+
+
+<!-- ## Service -->
