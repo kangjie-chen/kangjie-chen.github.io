@@ -12,6 +12,7 @@ I am a Ph.D. candidate at Nanyang Technological University, supervised by Prof. 
 
 ## Research Interests
 - Machine Learning Security and Privacy
+- Natural Language Processing
 - Reinforcement Learning
 <br/>
 
@@ -67,6 +68,8 @@ I am a Ph.D. candidate at Nanyang Technological University, supervised by Prof. 
   <br/>
   *Proceedings of the AAAI Conference on Artificial Intelligence, Apr 2020*
 
+
+<!-- ## Book -->
 
 
 <!-- ## Invited Talks -->
