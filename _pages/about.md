@@ -17,7 +17,7 @@ I am a Ph.D. candidate at School of Computer Science and Engineering, Nanyang Te
 <br/>
 
 
-# Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
+## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
 * **[Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://kangjie-chen.io/files/2023_ICLR_clean-image_backdoor.pdf)**
   <br/>
