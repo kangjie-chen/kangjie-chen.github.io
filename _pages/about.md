@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at School of Computer Science and Engineering, Nanyang Technological University, Singapore. My academic supervisors is Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.Eng. degree from Tianjin University in 2019 and my B.Eng. degree from University of Electronic Science and Technology of China in 2015. 
 
-## Research Interest
+## Research Interests
 - Machine Learning Security and Privacy
 - Reinforcement Learning
 
@@ -46,25 +46,25 @@ I am a Ph.D. candidate at School of Computer Science and Engineering, Nanyang Te
   *ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Jun 2021*
 
 * **[Temporal watermarks for deep reinforcement learning models](https://kangjie-chen.io/files/files/2021_AAMAS_DRL-Watermark.pdf)**
-
+  <br/>
   <u>Kangjie Chen</u>, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu
-
+  <br/>
   *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 2021*
 
 * **[A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems](https://kangjie-chen.io/files/files/2021_ISPA_Anomaly-Detection.pdf)**
-
+  <br/>
   Xingshuo Han, <u>Kangjie Chen</u>, Yuan Zhou, Meikang Qiu, Chun Fan, Yang Liu, Tianwei Zhang
-
+  <br/>
   *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Oct 2021*
 
 * **Vulnerability assessment of deep reinforcement learning models for power system topology optimization**
-
+  <br/>
   Yan Zheng, Ziming Yan, <u>Kangjie Chen</u>, Jianwen Sun, Yan Xu, Yang Liu
-
+  <br/>
   *IEEE Transactions on Smart Grid, Volume: 12, Issue: 4, July 2021*
 
 * **[Stealthy and efficient adversarial attacks against deep reinforcement learning](https://kangjie-chen.io/files/files/2020_AAAI_DRL_AE.pdf)**
-
+  <br/>
   Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, <u>Kangjie Chen</u>, Yang Liu
-
+  <br/>
   *Proceedings of the AAAI Conference on Artificial Intelligence, Apr 2020*
