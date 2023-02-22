@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hello!
+<span style="font-size:large;"> Hello! </span>
 
 I am currently a Ph.D. candidate at Nanyang Technological University, supervised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.Eng. degree from Tianjin University under the supervision of Prof. [Jianye Hao](http://www.icdai.org/jianye.html) and my B.Eng. degree from University of Electronic Science and Technology of China. 
 
