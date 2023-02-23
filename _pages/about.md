@@ -56,7 +56,7 @@ I am currently a Computer Science Ph.D. candidate at Nanyang Technological Unive
   <br/>
   Xingshuo Han, <u>Kangjie Chen</u>, Yuan Zhou, Meikang Qiu, Chun Fan, Yang Liu, Tianwei Zhang
   <br/>
-  *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Oct 2021*
+  *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Oct 2021, <span style="color:red">Most Innovative Paper Award</span>*
 
 - **Vulnerability assessment of deep reinforcement learning models for power system topology optimization**
   <br/>
