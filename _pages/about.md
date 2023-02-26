@@ -24,7 +24,7 @@ I am currently a Computer Science Ph.D. candidate at Nanyang Technological Unive
   <br/>
   <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
   <br/>
-  *International Conference on Learning Representations (ICLR), May 2023, <span style="color:red">(Oral)</span>* 
+  *International Conference on Learning Representations (ICLR), May 2023, <span style="color:red">Oral</span>* 
 
 
 - **[BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://kangjie-chen.github.io/files/2022_ICLR_BadPre.pdf)**
