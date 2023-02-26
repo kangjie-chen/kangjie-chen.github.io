@@ -76,7 +76,7 @@ I am currently a Computer Science Ph.D. candidate at Nanyang Technological Unive
 
 ## Invited Talks
 
-- “Temporal Watermarks for Deep Reinforcement Learning Models” (Invited talk)
+- “Temporal Watermarks for Deep Reinforcement Learning Models”
 <br/>
 Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
