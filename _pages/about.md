@@ -73,19 +73,13 @@ I am currently a Computer Science Ph.D. candidate at Nanyang Technological Unive
 
 <!-- ## Book -->
 
-
 ## Invited Talks
 
 - “Temporal Watermarks for Deep Reinforcement Learning Models”
 <br/>
 Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
+
 ## Professional Services
 
-- Conference Reviewer
-    - International Conference on Machine Learning (ICML)
-    - Neural Information Processing Systems (NeurIPS)
-    - International Conference on Learning Representations (ICLR)
-    - The Association for the Advancement of Artificial Intelligence (AAAI) 
-    - International Joint Conferences on Artificial Intelligence (IJCAI) 
-    - International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+- Conference Reviewer for ICML, NeurIPS, ICLR, AAAI, IJCAI, AAMAS
