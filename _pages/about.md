@@ -87,4 +87,4 @@ Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
 ## Teaching
 
-- Introduction to Computational Thinking and Programming (SC1003), Teaching Assitant, 2022 August, Nanyang Technological University
+- Introduction to Computational Thinking and Programming (SC1003), Teaching Assitant, 2022 Fall, Nanyang Technological University
