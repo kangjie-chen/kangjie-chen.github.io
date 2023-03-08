@@ -14,8 +14,8 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 
 ## Research Interests
 - Deep Learning Security
-- Natural Language Processing
 - Reinforcement Learning
+- Natural Language Processing
 <br/>
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
