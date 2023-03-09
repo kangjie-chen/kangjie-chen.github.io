@@ -74,9 +74,19 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 <!-- ## Book -->
 
 
+
+
 ## Professional Services
 
 - Conference Reviewer for ICML, NeurIPS, ICLR, AAAI, IJCAI, AAMAS
+
+
+
+## Teaching
+
+- Introduction to Computational Thinking and Programming (SC1003), Teaching Assitant, 2022 Fall, Nanyang Technological University
+
+
 
 ## Invited Talks
 
@@ -85,6 +95,3 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
 
-## Teaching
-
-- Introduction to Computational Thinking and Programming (SC1003), Teaching Assitant, 2022 Fall, Nanyang Technological University
