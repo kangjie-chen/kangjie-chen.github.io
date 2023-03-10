@@ -14,6 +14,7 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 
 ## Research Interests
 - Deep Learning Security
+- Computer Vision
 - Reinforcement Learning
 - Pre-trained Language Model
 <br/>
