@@ -91,7 +91,7 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 
 ## Invited Talks
 
-- “Temporal Watermarks for Deep Reinforcement Learning Models”
+- “Temporal Watermarks for Deep Reinforcement Learning Models”,
 <br/>
 Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
