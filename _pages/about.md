@@ -85,7 +85,7 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 
 ## Teaching
 
-- Introduction to Computational Thinking and Programming (SC1003), Teaching Assitant, 2022 Fall, Nanyang Technological University
+- Introduction to Computational Thinking and Programming (SC1003), Teaching Assistant, 2022 Fall, Nanyang Technological University
 
 
 
