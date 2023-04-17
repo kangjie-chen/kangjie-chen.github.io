@@ -59,13 +59,13 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
   <br/>
   *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Oct 2021, <span style="color:red">Most Innovative Paper Award</span>*
 
-- **Vulnerability assessment of deep reinforcement learning models for power system topology optimization**
+- **Vulnerability Assessment of Deep Reinforcement Learning Models for Power System Topology Optimization**
   <br/>
   Yan Zheng, Ziming Yan, <u>Kangjie Chen</u>, Jianwen Sun, Yan Xu, Yang Liu
   <br/>
   *IEEE Transactions on Smart Grid, Volume: 12, Issue: 4, July 2021*
 
-- **[Stealthy and efficient adversarial attacks against deep reinforcement learning](https://kangjie-chen.github.io/files/2020_AAAI_DRL_AE.pdf)**
+- **[Stealthy and Efficient Adversarial Attacks against Deep Reinforcement Learning](https://kangjie-chen.github.io/files/2020_AAAI_DRL_AE.pdf)**
   <br/>
   Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, <u>Kangjie Chen</u>, Yang Liu
   <br/>
