@@ -21,6 +21,13 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
+- **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**
+  <br/>
+  Hanxiao Chen, Meng Hao, Hongwei Li, <u>Kangjie Chen</u>, Guowen Xu, Tianwei Zhang, Xilin Zhang
+  <br/>
+  *International Conference on Machine Learning (ICML), Jul 2023* 
+
+
 - **[Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://kangjie-chen.github.io/files/2023_ICLR_clean-image_backdoor.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
