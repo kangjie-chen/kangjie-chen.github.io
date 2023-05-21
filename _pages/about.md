@@ -24,7 +24,7 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
 
 - **Multi-target Backdoor Attacks for Code Pre-trained Models**
   <br/>
-  Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, and Yang Liu
+  Yanzhou Li, Shangqing Liu, <u>Kangjie Chen</u>, Xiaofei Xie, Tianwei Zhang, and Yang Liu
   <br/>
   *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2023* 
 
