@@ -54,7 +54,7 @@ I am currently a third-year Ph.D. student at Nanyang Technological University, S
   <br/>
   Xingshuo Han, Yuan Zhou, <u>Kangjie Chen</u>, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang
   <br/>
-  *IEEE Transactions on Intelligent Transportation Systems, Volume: 24, Issue: 1, Jan 2023*
+  *IEEE Transactions on Intelligent Transportation Systems (TITS), Volume: 24, Issue: 1, Jan 2023*
 
 - **[Stealing Deep Reinforcement Learning Models for Fun and Profit](https://kangjie-chen.github.io/files/2021_AsiaCCS_Stealing-DRL.pdf)**
   <br/>
