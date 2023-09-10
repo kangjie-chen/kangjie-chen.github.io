@@ -94,7 +94,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 ## Professional Services
 
-- Conference Reviewer for ICML, NeurIPS, ICLR, AAAI, IJCAI, AAMAS
+- Conference Reviewer for ICML, NeurIPS, ICLR, AAAI, IJCAI
 
 
 
