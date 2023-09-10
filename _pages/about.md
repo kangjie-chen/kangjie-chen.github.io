@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-size:large;font-weight:bold;"> Welcome to my homepage! </span>
 <br/>
-I am currently a third-year Ph.D. student at Nanyang Technological University, Singapore. I am a recipient of [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.Eng. degree from Tianjin University under the supervision of Prof. [Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
+I am currently a fourth-year Ph.D. student at Nanyang Technological University, Singapore. I am a recipient of [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/), advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.Eng. degree from Tianjin University under the supervision of Prof. [Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
 
 ## Research Interests
 - AI Security and Privacy
