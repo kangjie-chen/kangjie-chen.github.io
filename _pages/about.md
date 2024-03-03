@@ -14,9 +14,11 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 ## Research Interests
 - AI Security and Privacy
-- Computer Vision
-- Reinforcement Learning
 - Pre-trained Language Model
+- Reinforcement Learning
+- Computer Vision
+
+
 <br/>
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
