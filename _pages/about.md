@@ -25,7 +25,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 - **[BadEdit: Backdooring Large Language Models by Model Editing](https://openreview.net/pdf?id=duZANm2ABX)**
   <br/>
-  Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen\#<\u>, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
+  Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen<\u>\#, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
   <br/>
   *International Conference on Learning Representations (ICLR), May 2024
 
