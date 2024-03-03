@@ -21,15 +21,21 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
+- **[BadEdit: Backdooring Large Language Models by Model Editing](https://openreview.net/pdf?id=duZANm2ABX)**
+  <br/>
+  Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen\#<\u>, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
+  <br/>
+  *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2023* 
 
-- **Multi-target Backdoor Attacks for Code Pre-trained Models**
+
+- **[Multi-target Backdoor Attacks for Code Pre-trained Models](https://aclanthology.org/2023.acl-long.399.pdf)**
   <br/>
   Yanzhou Li, Shangqing Liu, <u>Kangjie Chen</u>, Xiaofei Xie, Tianwei Zhang, and Yang Liu
   <br/>
   *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2023* 
 
 
-- **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**
+- **[GuardHFL: Privacy Guardian for Heterogeneous Federated Learning](https://proceedings.mlr.press/v202/chen23j.html)**
   <br/>
   Hanxiao Chen, Meng Hao, Hongwei Li, <u>Kangjie Chen</u>, Guowen Xu, Tianwei Zhang, Xilin Zhang
   <br/>
@@ -40,7 +46,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
   <br/>
-  *International Conference on Learning Representations (ICLR), May 2023, <span style="color:red">Notable-top-5%</span>* 
+  *International Conference on Learning Representations (ICLR), May 2023, <span style="color:red">Oral</span>* 
 
 
 - **[BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://kangjie-chen.github.io/files/2022_ICLR_BadPre.pdf)**
