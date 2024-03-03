@@ -25,7 +25,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen</u>\#, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
   <br/>
-  *International Conference on Learning Representations (ICLR), May 2024
+  *International Conference on Learning Representations (ICLR), May 2024*
 
 - **[Multi-target Backdoor Attacks for Code Pre-trained Models](https://aclanthology.org/2023.acl-long.399.pdf)**
   <br/>
