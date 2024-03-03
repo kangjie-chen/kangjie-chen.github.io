@@ -18,14 +18,13 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 - Reinforcement Learning
 - Computer Vision
 
-
 <br/>
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
 - **[BadEdit: Backdooring Large Language Models by Model Editing](https://openreview.net/pdf?id=duZANm2ABX)**
   <br/>
-  Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen<\u>\#, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
+  Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen</u>\#, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
   <br/>
   *International Conference on Learning Representations (ICLR), May 2024
 
