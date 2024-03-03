@@ -17,7 +17,6 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 - Pre-trained Language Model
 - Reinforcement Learning
 - Computer Vision
-
 <br/>
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
@@ -28,13 +27,11 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   *International Conference on Learning Representations (ICLR), May 2024
 
-
 - **[Multi-target Backdoor Attacks for Code Pre-trained Models](https://aclanthology.org/2023.acl-long.399.pdf)**
   <br/>
   Yanzhou Li, Shangqing Liu, <u>Kangjie Chen</u>, Xiaofei Xie, Tianwei Zhang, and Yang Liu
   <br/>
   *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), Jul 2023* 
-
 
 - **[GuardHFL: Privacy Guardian for Heterogeneous Federated Learning](https://proceedings.mlr.press/v202/chen23j.html)**
   <br/>
@@ -42,20 +39,17 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   *International Conference on Machine Learning (ICML), Jul 2023* 
 
-
 - **[Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://kangjie-chen.github.io/files/2023_ICLR_clean-image_backdoor.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
   <br/>
   *International Conference on Learning Representations (ICLR), May 2023, <span style="color:red">Oral</span>* 
 
-
 - **[BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://kangjie-chen.github.io/files/2022_ICLR_BadPre.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan
   <br/>
   *International Conference on Learning Representations (ICLR), Apr 2022*
-
 
 - **[ADS-lead: Lifelong anomaly detection in autonomous driving systems](https://kangjie-chen.github.io/files/2022_TITS_ADS-lead.pdf)**
   <br/>
@@ -93,26 +87,21 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   *Proceedings of the AAAI Conference on Artificial Intelligence, Apr 2020*
 
-
 <!-- ## Book -->
 
 
 
 
 ## Professional Services
-
-- Conference Reviewer for ICML, NeurIPS, ICLR, AAAI, IJCAI
-
+- Conference Reviewer for ICML, NeurIPS, ICLR, CVPR, AAAI, IJCAI
+- Journal Reviewer for TDSC, TIP, TCSVT
 
 
 ## Teaching
-
 - Introduction to Computational Thinking and Programming (SC1003), Teaching Assistant, 2022 Fall, Nanyang Technological University
 
 
-
 ## Invited Talks
-
 - “Temporal Watermarks for Deep Reinforcement Learning Models”,
 <br/>
 Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
