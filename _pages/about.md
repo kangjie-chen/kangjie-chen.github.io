@@ -21,6 +21,18 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
+- **Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**
+  <br/>
+  Renyang Liu, Wei Zhou, Tianwei Zhang, <u>Kangjie Chen</u>, Jun Zhao, and Kwok-Yan Lam
+  <br/>
+  *The IEEE Transactions on Information Forensics & Security (TIFS), 2024*
+
+- **Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels**
+  <br/>
+  Xiaoxuan Lou*, <u>Kangjie Chen</u>*, Guowen Xu, Han Qiu, Shangwei Guo, and Tianwei Zhang
+  <br/>
+  *The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Jun 2024*
+
 - **[BadEdit: Backdooring Large Language Models by Model Editing](https://openreview.net/pdf?id=duZANm2ABX)**
   <br/>
   Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen</u>\#, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
@@ -85,7 +97,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, <u>Kangjie Chen</u>, Yang Liu
   <br/>
-  *Proceedings of the AAAI Conference on Artificial Intelligence, Apr 2020*
+  *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Apr 2020*
 
 <!-- ## Book -->
 
