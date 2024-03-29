@@ -29,7 +29,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 - **Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels**
   <br/>
-  Xiaoxuan Lou*, <u>Kangjie Chen</u>*, Guowen Xu, Han Qiu, Shangwei Guo, and Tianwei Zhang
+  Xiaoxuan Lou\*, <u>Kangjie Chen</u>\*, Guowen Xu, Han Qiu, Shangwei Guo, and Tianwei Zhang
   <br/>
   *The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Jun 2024*
 
