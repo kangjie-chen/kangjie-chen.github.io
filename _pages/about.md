@@ -27,7 +27,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   *The IEEE Transactions on Information Forensics & Security (TIFS), 2024*
 
-- **Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels**
+- **[Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels](https://kangjie-chen.github.io/files/2024_DSN.pdf)**
   <br/>
   Xiaoxuan Lou\*, <u>Kangjie Chen</u>\*, Guowen Xu, Han Qiu, Shangwei Guo, and Tianwei Zhang
   <br/>
