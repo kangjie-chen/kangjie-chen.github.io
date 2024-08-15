@@ -21,6 +21,12 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
+- **[EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second](https://kangjie-chen.github.io/files/2024_MM.pdf)**
+  <br/>
+  Hao Wang, Shangwei Guo, Jialing He, <u>Kangjie Chen</u>, Shudong Zhang, Tianwei Zhang, Tao Xiang
+  <br/>
+  *The 32nd ACM Multimedia Conference, 2024*
+
 - **Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**
   <br/>
   Renyang Liu, Wei Zhou, Tianwei Zhang, <u>Kangjie Chen</u>, Jun Zhao, and Kwok-Yan Lam
