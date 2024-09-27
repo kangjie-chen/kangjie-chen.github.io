@@ -21,13 +21,19 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
+- **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://arxiv.org/abs/2405.19360)**
+  <br/>
+  Guanlin Li, <u>Kangjie Chen</u>\#, Shudong Zhang, Jie Zhang, Tianwei Zhang
+  <br/>
+  *The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+
 - **[EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second](https://kangjie-chen.github.io/files/2024_MM.pdf)**
   <br/>
   Hao Wang, Shangwei Guo, Jialing He, <u>Kangjie Chen</u>, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
   *The 32nd ACM Multimedia Conference, 2024*
 
-- **Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**
+- **[Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models](https://ieeexplore.ieee.org/document/10504304)**
   <br/>
   Renyang Liu, Wei Zhou, Tianwei Zhang, <u>Kangjie Chen</u>, Jun Zhao, and Kwok-Yan Lam
   <br/>
