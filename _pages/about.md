@@ -99,7 +99,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Oct 2021, <span style="color:red">Most Innovative Paper Award</span>*
 
-- **Vulnerability Assessment of Deep Reinforcement Learning Models for Power System Topology Optimization**
+- **[Vulnerability Assessment of Deep Reinforcement Learning Models for Power System Topology Optimization](https://ieeexplore.ieee.org/document/9365691)**
   <br/>
   Yan Zheng, Ziming Yan, <u>Kangjie Chen</u>, Jianwen Sun, Yan Xu, Yang Liu
   <br/>
