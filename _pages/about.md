@@ -69,7 +69,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   *International Conference on Learning Representations (ICLR), May 2023, <span style="color:red"><b>Oral</b></span>* 
 
-- **[ADS-lead: Lifelong anomaly detection in autonomous driving systems](https://kangjie-chen.github.io/files/2022_TITS_ADS-lead.pdf)**
+- **[ADS-lead: Lifelong Anomaly Detection in Autonomous Driving Systems](https://kangjie-chen.github.io/files/2022_TITS_ADS-lead.pdf)**
   <br/>
   Xingshuo Han, Yuan Zhou, <u>Kangjie Chen</u>, Han Qiu, Meikang Qiu, Yang Liu, Tianwei Zhang
   <br/>
@@ -87,7 +87,7 @@ I am currently a fourth-year Ph.D. student at Nanyang Technological University, 
   <br/>
   *ACM ASIA Conference on Computer and Communications Security (AsiaCCS), Jun 2021*
 
-- **[Temporal watermarks for deep reinforcement learning models](https://kangjie-chen.github.io/files/2021_AAMAS_DRL-Watermark.pdf)**
+- **[Temporal Watermarks for Deep Reinforcement Learning Models](https://kangjie-chen.github.io/files/2021_AAMAS_DRL-Watermark.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu
   <br/>
