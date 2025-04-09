@@ -16,7 +16,6 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 - AI Security and Privacy
 - Pre-trained Foundation Model
 - Reinforcement Learning
-- Computer Vision
 <br/>
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
