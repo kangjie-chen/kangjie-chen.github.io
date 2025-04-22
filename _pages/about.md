@@ -117,8 +117,8 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 
 ## Professional Services
-- Conference Reviewer for ICML, ICLR, NeurIPS, CVPR, AAAI, IJCAI
-- Journal Reviewer for TDSC, TIP, TMM, TCSVT
+- Conference Reviewer for ICML, ICLR, NeurIPS, CVPR, AAAI, IJCAI, ICCV
+- Journal Reviewer for TDSC, TIFS, TIP, TMM, TCSVT
 
 
 ## Teaching
