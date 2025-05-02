@@ -13,7 +13,7 @@ redirect_from:
 I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.sg/dtc), Nanyang Technological University, Singapore. I received my Ph.D. degree at Nanyang Technological University, advised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.Eng. degree from Tianjin University under the supervision of Prof. [Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
 
 ## Research Interests
-- Red-Teaming and Evaluation of Foundation Models
+- Red-teaming and Evaluation of Foundation Models
 - Safety and Security of LLM-Based Autonomous Agents
 - Backdoor Attacks and Defenses in Deep Learning 
 - Trustworthy AI
@@ -21,7 +21,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
-- **TRUST-VLM: Thorough Red-Teaming for Uncovering Safety Threats in Vision-Language Models**
+- **TRUST-VLM: Thorough Red-teaming for Uncovering Safety Threats in Vision-Language Models**
   <br/>
   <u>Kangjie Chen</u>, Muyang Li, Guanlin Li, Shudong Zhang, Shangwei Guo, Tianwei Zhang
   <br/>
