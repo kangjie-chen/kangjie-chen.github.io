@@ -14,7 +14,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 ## Research Interests
 - Red-teaming and Evaluation of Foundation Models
-- Safety and Security of LLM-Based Agents
+- Safety and Security of LLM-Based Autonomous Agents
 - Backdoor Attacks and Defenses in Deep Learning 
 - Trustworthy AI
 <br/>
