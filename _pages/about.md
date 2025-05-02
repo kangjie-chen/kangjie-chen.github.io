@@ -21,6 +21,12 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
+- **TRUST-VLM: Thorough Red-Teaming for Uncovering Safety Threats in Vision-Language Models**
+  <br/>
+  <u>Kangjie Chen</u>, Muyang Li, Guanlin Li, Shudong Zhang, Shangwei Guo, Tianwei Zhang
+  <br/>
+  *International Conference on Machine Learning (ICML), July, 2025*
+
 - **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://arxiv.org/abs/2405.19360)**
   <br/>
   Guanlin Li, <u>Kangjie Chen</u>\#, Shudong Zhang, Jie Zhang, Tianwei Zhang
