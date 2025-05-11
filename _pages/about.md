@@ -27,7 +27,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   *International Conference on Machine Learning (ICML), July, 2025*
 
-- **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://arxiv.org/abs/2405.19360)**
+- **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://openreview.net/pdf?id=H2ATO32ilj)**
   <br/>
   Guanlin Li, <u>Kangjie Chen</u>\#, Shudong Zhang, Jie Zhang, Tianwei Zhang
   <br/>
