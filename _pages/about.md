@@ -24,7 +24,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 - **USD: NSFW Content Detection for Text-to-Image Models via Scene Graph**
   <br/>
-  Yuyang Zhang*, <u>Kangjie Chen</u>*, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang
+  Yuyang Zhang\*, <u>Kangjie Chen</u>\*, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang
   <br/>
   *The 34th USENIX Security Symposium (USENIX), Aug, 2025*
 
