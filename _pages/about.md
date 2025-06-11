@@ -29,7 +29,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   *The 34th USENIX Security Symposium (USENIX), Aug, 2025*
 
 
-- **TRUST-VLM: Thorough Red-teaming for Uncovering Safety Threats in Vision-Language Models**
+- **[TRUST-VLM: Thorough Red-teaming for Uncovering Safety Threats in Vision-Language Models](https://kangjie-chen.github.io/files/2025_ICML.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Muyang Li, Guanlin Li, Shudong Zhang, Shangwei Guo, Tianwei Zhang
   <br/>
