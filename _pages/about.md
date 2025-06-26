@@ -21,6 +21,11 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
+- **Automated Red-Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models**
+  <br/>
+  Wei Xu\*, <u>Kangjie Chen</u>\*, Jiawei Qiu, Yuyang zhang, Run Wang, Jin Mao, Tianwei Zhang, Lina Wang
+  <br/>
+  *IEEE International Conference on Computer Vision (ICCV), October, 2025*
 
 - **USD: NSFW Content Detection for Text-to-Image Models via Scene Graph**
   <br/>
