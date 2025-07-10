@@ -23,7 +23,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 - **Impact-driven Context Filtering For Cross-file Code Completion**
   <br/>
-  Yanzhou Li, Shangqiu Liu, <u>Kangjie Chen</u>\*, Tianwei Zhang, Yang Liu
+  Yanzhou Li, Shangqiu Liu, <u>Kangjie Chen</u>, Tianwei Zhang, Yang Liu
   <br/>
   *The 2nd Conference on Language Modeling (COLM), October, 2025*
 
