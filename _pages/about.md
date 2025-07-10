@@ -21,7 +21,13 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 ## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
 
-- **Automated Red-Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models**
+- **Impact-driven Context Filtering For Cross-file Code Completion**
+  <br/>
+  Yanzhou Li, Shangqiu Liu, <u>Kangjie Chen</u>\*, Tianwei Zhang, Yang Liu
+  <br/>
+  *The 2nd Conference on Language Modeling (COLM), October, 2025*
+
+- **Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models**
   <br/>
   Wei Xu\*, <u>Kangjie Chen</u>\*, Jiawei Qiu, Yuyang zhang, Run Wang, Jin Mao, Tianwei Zhang, Lina Wang
   <br/>
