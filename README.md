@@ -50,4 +50,4 @@ Some errors you might get:
 
 ## 允许百度搜索爬取网站
 - 前往[百度网页提交](https://ziyuan.baidu.com/site/index)
-- 添加网站，需要填写姓名，联系方式，QQ，微信等。暂时放弃
+- 添加网站，需要填写姓名，联系方式，QQ，微信等。
