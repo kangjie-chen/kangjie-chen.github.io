@@ -57,7 +57,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   Hao Wang, Shangwei Guo, Jialing He, <u>Kangjie Chen</u>, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
-  *The 32nd ACM Multimedia Conference, 2024*
+  *The 32nd ACM Multimedia Conference (MM), 2024*
 
 - **[Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models](https://ieeexplore.ieee.org/document/10504304)**
   <br/>
