@@ -28,13 +28,13 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   *The 2nd Conference on Language Modeling (COLM), 2025*
 
-- **Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models**
+- **[Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models](https://kangjie-chen.github.io/files/2025_ICCV.pdf)**
   <br/>
   Wei Xu\*, <u>Kangjie Chen</u>\*, Jiawei Qiu, Yuyang Zhang, Run Wang, Jin Mao, Tianwei Zhang, Lina Wang
   <br/>
   *IEEE International Conference on Computer Vision (ICCV), 2025*
 
-- **USD: NSFW Content Detection for Text-to-Image Models via Scene Graph**
+- **[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph](https://kangjie-chen.github.io/files/2025_USENIX.pdf)**
   <br/>
   Yuyang Zhang\*, <u>Kangjie Chen</u>\*, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang
   <br/>
