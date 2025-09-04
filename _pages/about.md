@@ -89,7 +89,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023* 
 
-- **[Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://kangjie-chen.github.io/files/2023_ICLR_clean-image_backdoor.pdf)**
+- **[Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/pdf?id=rFQfjDC9Mt)**
   <br/>
   <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
   <br/>
