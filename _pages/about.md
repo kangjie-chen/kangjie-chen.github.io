@@ -34,7 +34,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   *IEEE International Conference on Computer Vision (ICCV), 2025*
 
-- **[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph](https://kangjie-chen.github.io/files/2025_USENIX.pdf)**
+- **[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph](https://www.usenix.org/system/files/usenixsecurity25-zhang-yuyang.pdf)**
   <br/>
   Yuyang Zhang\*, <u>Kangjie Chen</u>\*, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang
   <br/>
@@ -59,7 +59,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   *The 32nd ACM Multimedia Conference (ACM MM), 2024*
 
-- **[Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models](https://ieeexplore.ieee.org/document/10504304)**
+- **[Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models](https://kangjie-chen.github.io/files/2024_TIFS.pdf)**
   <br/>
   Renyang Liu, Wei Zhou, Tianwei Zhang, <u>Kangjie Chen</u>, Jun Zhao, and Kwok-Yan Lam
   <br/>
@@ -77,7 +77,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   *International Conference on Learning Representations (ICLR), 2024*
 
-- **[GuardHFL: Privacy Guardian for Heterogeneous Federated Learning](https://proceedings.mlr.press/v202/chen23j.html)**
+- **[GuardHFL: Privacy Guardian for Heterogeneous Federated Learning](https://proceedings.mlr.press/v202/chen23j/chen23j.pdf)**
   <br/>
   Hanxiao Chen, Meng Hao, Hongwei Li, <u>Kangjie Chen</u>, Guowen Xu, Tianwei Zhang, Xilin Zhang
   <br/>
