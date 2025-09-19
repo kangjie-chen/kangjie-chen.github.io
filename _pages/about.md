@@ -27,7 +27,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   Chunlong Xie, <u>Kangjie Chen</u>, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025, <span style="color:red"><b>Spotlight</b></span>*
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, **Spotlight**
 
 - **Analogy-based Multi-Turn Jailbreak against Large Language Models**
   <br/>
@@ -106,7 +106,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
   <br/>
-  *International Conference on Learning Representations (ICLR), 2023, <span style="color:red"><b>Oral</b></span>* 
+  *International Conference on Learning Representations (ICLR), 2023*, **Oral** 
 
 - **[ADS-lead: Lifelong Anomaly Detection in Autonomous Driving Systems](https://kangjie-chen.github.io/files/2022_TITS_ADS-lead.pdf)**
   <br/>
@@ -136,7 +136,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   Xingshuo Han, <u>Kangjie Chen</u>, Yuan Zhou, Meikang Qiu, Chun Fan, Yang Liu, Tianwei Zhang
   <br/>
-  *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2021, <span style="color:red">Most Innovative Paper Award</span>*
+  *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2021*, **Most Innovative Paper Award**
 
 - **[Vulnerability Assessment of Deep Reinforcement Learning Models for Power System Topology Optimization](https://ieeexplore.ieee.org/document/9365691)**
   <br/>
