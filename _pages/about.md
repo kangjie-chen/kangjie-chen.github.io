@@ -20,7 +20,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 - Trustworthy AI
 <br/>
 
-## Publications <span style="font-size:small;">[[Google Scholar](https://scholar.google.com/citations?user=vEPnP6oAAAAJ)]</span>
+## Publications
 
 
 - Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models
