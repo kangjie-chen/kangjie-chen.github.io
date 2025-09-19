@@ -35,7 +35,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
-- **[Impact-driven Context Filtering For Cross-file Code Completion](https://openreview.net/pdf?id=0Y2zXLFBji)**
+- [Impact-driven Context Filtering For Cross-file Code Completion](https://openreview.net/pdf?id=0Y2zXLFBji)
   <br/>
   Yanzhou Li, Shangqiu Liu, <u>Kangjie Chen</u>, Tianwei Zhang, Yang Liu
   <br/>
