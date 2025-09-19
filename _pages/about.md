@@ -27,7 +27,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   <br/>
   Chunlong Xie, <u>Kangjie Chen</u>, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, **Spotlight**
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025, <span style="color:red"><b>Spotlight</b></span>*
 
 - **Analogy-based Multi-Turn Jailbreak against Large Language Models**
   <br/>
