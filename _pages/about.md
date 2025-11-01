@@ -23,13 +23,13 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 ## Publications
 
 
-- Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models
+- **[Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models](https://openreview.net/pdf?id=JIpKkzSqly)**
   <br/>
-  Chunlong Xie, <u>Kangjie Chen</u>, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
+  Chunlong Xie\*, <u>Kangjie Chen</u>\*, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, **Spotlight**
 
-- Analogy-based Multi-Turn Jailbreak against Large Language Models
+- **[Analogy-based Multi-Turn Jailbreak against Large Language Models](https://openreview.net/pdf/90ec84387b8d7282640d625e2d28faef32f89000.pdf)**
   <br/>
   Mengjie Wu, Zhenjun Lin, Yihao Huang, <u>Kangjie Chen</u>, Yuyang zhang, Yuhan Huang, Run Wang, Lina Wang
   <br/>
