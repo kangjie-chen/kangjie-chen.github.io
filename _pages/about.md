@@ -22,6 +22,12 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 ## Publications
 
+- **Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models**
+  <br/>
+  Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, <u>Kangjie Chen</u>, Jie Zhang, Tianwei Zhang
+  <br/>
+  *The Network and Distributed System Security Symposium (NDSS), 2026*
+
 
 - **[Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models](https://openreview.net/pdf?id=JIpKkzSqly)**
   <br/>
