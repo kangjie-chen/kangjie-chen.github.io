@@ -37,7 +37,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 - **[Analogy-based Multi-Turn Jailbreak against Large Language Models](https://openreview.net/pdf/90ec84387b8d7282640d625e2d28faef32f89000.pdf)**
   <br/>
-  Mengjie Wu, Zhenjun Lin, Yihao Huang, <u>Kangjie Chen</u>, Yuyang zhang, Yuhan Huang, Run Wang, Lina Wang
+  Mengjie Wu, Zhenjun Lin, Yihao Huang, <u>Kangjie Chen</u>, Yuyang Zhang, Yuhan Huang, Run Wang, Lina Wang
   <br/>
   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
