@@ -22,6 +22,14 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 ## Publications
 
+
+- **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
+  <br/>
+  Anindya Sundar Das, <u>Kangjie Chen</u>\#, Monowar Bhuyan
+  <br/>
+  *The Fourteenth International Conference on Learning Representations (ICLR), 2026*
+
+
 - **Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models**
   <br/>
   Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, <u>Kangjie Chen</u>, Jie Zhang, Tianwei Zhang
