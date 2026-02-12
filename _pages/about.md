@@ -25,7 +25,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 - **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
   <br/>
-  Anindya Sundar Das, <u>Kangjie Chen</u>\#, Monowar Bhuyan
+  Anindya Sundar Das, <u>Kangjie Chen</u>, Monowar Bhuyan
   <br/>
   *The Fourteenth International Conference on Learning Representations (ICLR), 2026*
 
