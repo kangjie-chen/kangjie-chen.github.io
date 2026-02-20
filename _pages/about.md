@@ -30,7 +30,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
   *The Fourteenth International Conference on Learning Representations (ICLR), 2026*
 
 
-- **Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models**
+- **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://tianweiz07.github.io/Papers/26-ndss.pdf)**
   <br/>
   Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, <u>Kangjie Chen</u>, Jie Zhang, Tianwei Zhang
   <br/>
