@@ -178,9 +178,4 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 - Introduction to Computational Thinking and Programming (SC1003), Teaching Assistant, 2022 Fall, Nanyang Technological University
 
 
-## Invited Talks
-- “Temporal Watermarks for Deep Reinforcement Learning Models”,
-<br/>
-Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
-
 
