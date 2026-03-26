@@ -22,10 +22,16 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 
 <h2 style="color:#c62828;">Open Positions</h2>
-I am actively seeking **highly self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV, transcripts, and a brief description of your research interests by email.
+I am actively seeking **highly self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV and a brief description of your research interests by email.
 
 
 ## Publications
+
+- **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
+  <br/>
+  Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, <u>Kangjie Chen</u>, Yi Yu, Wenbo Jiang, Guowen Xu, Tianwei Zhang
+  <br/>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
 
 - **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
   <br/>
