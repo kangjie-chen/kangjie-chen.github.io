@@ -9,7 +9,7 @@
 locale                   : "en-SG"
 title                    : "Kangjie Chen"
 title_separator          : "-"
-name                     : &name "Kangjie Chen / 陈康杰"
+name                     : &name "Kangjie Chen"
 description              : &description "personal description"
 url                      : https://kangjie-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
