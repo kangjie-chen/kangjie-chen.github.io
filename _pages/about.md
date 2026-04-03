@@ -22,7 +22,7 @@ I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.s
 
 
 <h2 style="color:#c62828;">Open Positions</h2>
-I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV and a brief description of your research interests by email.
+I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV and a brief description of your research interests by email (kangjiechenATtjuDOTeduDOTcn).
 
 
 ## Publications
