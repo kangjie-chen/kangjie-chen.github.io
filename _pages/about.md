@@ -19,7 +19,7 @@ I am currently a Professor at [Tianjin University](https://cse.tju.edu.cn/). Bef
 - AI Safety and Security
 
 <h2 style="color:#c62828;">Open Positions</h2>
-I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV and a brief description of your research interests by email (kangjiechenATtjuDOTeduDOTcn).
+I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV and a brief description of your research interests by email.
 
 
 ## Publications
