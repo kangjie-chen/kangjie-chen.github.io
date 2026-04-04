@@ -14,9 +14,9 @@ redirect_from:
 I am currently a Professor at [Tianjin University](https://cse.tju.edu.cn/). Before that, I was a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. degree at Nanyang Technological University advised by Prof. Tianwei Zhang, M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
 
 ## Research Interests
+- Trustworthy AI
 - Safety Evaluation for Foundation Models and Agents
 - Embodied AI Safety and Secure Decision Making
-- AI Safety and Security
 
 <h2 style="color:#c62828;">Open Positions</h2>
 I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV and a brief description of your research interests by email.
