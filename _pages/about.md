@@ -11,7 +11,7 @@ redirect_from:
 <span style="font-size:large;font-weight:bold;"> Welcome to my homepage! </span>
 <br/>
 
-I am currently a Professor at [School of Cybersecurity](https://cse.tju.edu.cn/), Tianjin University. Before that, I was a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. degree at Nanyang Technological University advised by Prof. Tianwei Zhang, M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
+I am currently a Professor at [School of Cybersecurity](https://cse.tju.edu.cn/), Tianjin University. Before that, I was a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. degree from Nanyang Technological University advised by Prof. Tianwei Zhang, M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
 
 ## Research Interests
 - Trustworthy AI
