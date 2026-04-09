@@ -28,7 +28,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
   <br/>
   Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, <u>Kangjie Chen</u>, Yi Yu, Wenbo Jiang, Guowen Xu, Tianwei Zhang
   <br/>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*, **Oral**
 
 - **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
   <br/>
