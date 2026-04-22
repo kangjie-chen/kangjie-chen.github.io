@@ -11,16 +11,13 @@ redirect_from:
 <span style="font-size:large;font-weight:bold;"> Welcome to my homepage! </span>
 <br/>
 
-I am currently a Professor at [School of Cybersecurity](https://cse.tju.edu.cn/), Tianjin University. Before that, I was a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. degree from Nanyang Technological University advised by Prof. Tianwei Zhang, M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
+I am currently a Professor at [School of Cybersecurity](https://cse.tju.edu.cn/), Tianjin University. 
+My research focuses on **Trustworthy AI** and **AI for Security**, with particular interests in *safety evaluation for foundation models and agents*, as well as *automated security analysis using LLM based agents*. I am broadly interested in advancing the safety, security, and reliability of foundation models and AI agents in real world applications.
 
-## Research Interests
-- Trustworthy AI
-- Safety Evaluation for Foundation Models and Agents
-- Embodied AI Safety and Secure Decision Making
+Before that, I was a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. degree from Nanyang Technological University advised by Prof. Tianwei Zhang, M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
 
 <h2 style="color:#c62828;">Open Positions</h2>
-I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. If you are interested, please send me your CV and a brief description of your research interests by email.
-
+I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. Candidates with strong backgrounds in machine learning, artificial intelligence, security, optimization, or related areas are encouraged to get in touch.
 
 ## Publications
 
