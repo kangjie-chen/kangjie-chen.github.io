@@ -21,17 +21,17 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 ## Publications
 
-- **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
+- **[CVPR Oral] TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
   <br/>
   Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, <u>Kangjie Chen</u>, Yi Yu, Wenbo Jiang, Guowen Xu, Tianwei Zhang
   <br/>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026*, **Oral**
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A), 2026*
 
-- **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
+- **[ICLR] Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
   <br/>
   Anindya Sundar Das, <u>Kangjie Chen</u>\#, Monowar Bhuyan
   <br/>
-  *The Fourteenth International Conference on Learning Representations (ICLR), 2026*
+  *The Fourteenth International Conference on Learning Representations (CCF-A), 2026*
 
 
 - **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://tianweiz07.github.io/Papers/26-ndss.pdf)**
