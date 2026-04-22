@@ -21,7 +21,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 ## Publications
 
-- **[CVPR Oral] TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
+- [CVPR Oral] **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
   <br/>
   Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, <u>Kangjie Chen</u>, Yi Yu, Wenbo Jiang, Guowen Xu, Tianwei Zhang
   <br/>
