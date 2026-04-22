@@ -21,24 +21,24 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 ## Publications
 
-- [CVPR Oral] **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
+- [CVPR 2026 CCF-A Oral] **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
   <br/>
   Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, <u>Kangjie Chen</u>, Yi Yu, Wenbo Jiang, Guowen Xu, Tianwei Zhang
   <br/>
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A), 2026*
 
-- **[ICLR] Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
+- [ICLR2026 CCF-A] **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
   <br/>
   Anindya Sundar Das, <u>Kangjie Chen</u>\#, Monowar Bhuyan
   <br/>
-  *The Fourteenth International Conference on Learning Representations (CCF-A), 2026*
+  *The Fourteenth International Conference on Learning Representations, 2026*
 
 
-- **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://tianweiz07.github.io/Papers/26-ndss.pdf)**
+- [NDSS 2026 CCF-A] **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://tianweiz07.github.io/Papers/26-ndss.pdf)**
   <br/>
   Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, <u>Kangjie Chen</u>, Jie Zhang, Tianwei Zhang
   <br/>
-  *The Network and Distributed System Security Symposium (NDSS), 2026*
+  *The Network and Distributed System Security Symposium, 2026, CCF-A*
 
 
 - **[Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models](https://openreview.net/pdf?id=JIpKkzSqly)**
