@@ -21,110 +21,110 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 ## Publications
 
-- [CVPR 2026 CCF-A Oral] **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
+- **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
   <br/>
   Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, <u>Kangjie Chen</u>, Yi Yu, Wenbo Jiang, Guowen Xu, Tianwei Zhang
   <br/>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A), 2026*
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026, CCF-A*, **Oral**
 
-- [ICLR2026 CCF-A] **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
+- **Unmasking Backdoors: An Explainable Defense via Gradient-Attention Anomaly Scoring for Pre-trained Language Models**
   <br/>
   Anindya Sundar Das, <u>Kangjie Chen</u>\#, Monowar Bhuyan
   <br/>
-  *The Fourteenth International Conference on Learning Representations, 2026*
+  *The Fourteenth International Conference on Learning Representations, ICLR 2026, CCF-A*
 
 
-- [NDSS 2026 CCF-A] **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://tianweiz07.github.io/Papers/26-ndss.pdf)**
+- **[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://tianweiz07.github.io/Papers/26-ndss.pdf)**
   <br/>
   Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, <u>Kangjie Chen</u>, Jie Zhang, Tianwei Zhang
   <br/>
-  *The Network and Distributed System Security Symposium, 2026, CCF-A*
+  *The Network and Distributed System Security Symposium, NDSS 2026, CCF-A*
 
 
 - **[Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models](https://openreview.net/pdf?id=JIpKkzSqly)**
   <br/>
   Chunlong Xie\*, <u>Kangjie Chen</u>\*, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, **Spotlight**
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025, CCF-A*, **Spotlight**
 
 - **[Analogy-based Multi-Turn Jailbreak against Large Language Models](https://openreview.net/pdf/90ec84387b8d7282640d625e2d28faef32f89000.pdf)**
   <br/>
   Mengjie Wu, Zhenjun Lin, Yihao Huang, <u>Kangjie Chen</u>, Yuyang Zhang, Yuhan Huang, Run Wang, Lina Wang
   <br/>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025, CCF-A*
 
 - **[Impact-driven Context Filtering For Cross-file Code Completion](https://openreview.net/pdf?id=0Y2zXLFBji)**
   <br/>
   Yanzhou Li, Shangqing Liu, <u>Kangjie Chen</u>, Tianwei Zhang, Yang Liu
   <br/>
-  *The 2nd Conference on Language Modeling (COLM), 2025*
+  *The 2nd Conference on Language Modeling, COLM 2025*
 
 - **[Automated Red Teaming for Text-to-Image Models through Feedback-Guided Prompt Iteration with Vision-Language Models](https://kangjie-chen.github.io/files/2025_ICCV.pdf)**
   <br/>
   Wei Xu\*, <u>Kangjie Chen</u>\*, Jiawei Qiu, Yuyang Zhang, Run Wang, Jin Mao, Tianwei Zhang, Lina Wang
   <br/>
-  *IEEE International Conference on Computer Vision (ICCV), 2025*
+  *IEEE International Conference on Computer Vision, ICCV 2025, CCF-A*
 
 - **[USD: NSFW Content Detection for Text-to-Image Models via Scene Graph](https://www.usenix.org/system/files/usenixsecurity25-zhang-yuyang.pdf)**
   <br/>
   Yuyang Zhang\*, <u>Kangjie Chen</u>\*, Xudong Jiang, Jiahui Wen, Yihui Jin, Ziyou Liang, Yihao Huang, Run Wang, Lina Wang
   <br/>
-  *The 34th USENIX Security Symposium (USENIX Security), 2025*
+  *The 34th USENIX Security Symposium, USENIX Security 2025, CCF-A*
 
 
 - **[TRUST-VLM: Thorough Red-teaming for Uncovering Safety Threats in Vision-Language Models](https://kangjie-chen.github.io/files/2025_ICML.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Muyang Li, Guanlin Li, Shudong Zhang, Shangwei Guo, Tianwei Zhang
   <br/>
-  *International Conference on Machine Learning (ICML), 2025*
+  *International Conference on Machine Learning, ICML 2025, CCF-A*
 
 - **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://openreview.net/pdf?id=H2ATO32ilj)**
   <br/>
   Guanlin Li, <u>Kangjie Chen</u>\#, Shudong Zhang, Jie Zhang, Tianwei Zhang
   <br/>
-  *The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
+  *The Thirty-Eighth Annual Conference on Neural Information Processing Systems, NeurIPS 2024, CCF-A*
 
 - **[EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second](https://kangjie-chen.github.io/files/2024_MM.pdf)**
   <br/>
   Hao Wang, Shangwei Guo, Jialing He, <u>Kangjie Chen</u>, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
-  *The 32nd ACM Multimedia Conference (ACM MM), 2024*
+  *The 32nd ACM Multimedia Conference, ACM MM 2024, CCF-A*
 
 - **[Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models](https://kangjie-chen.github.io/files/2024_TIFS.pdf)**
   <br/>
   Renyang Liu, Wei Zhou, Tianwei Zhang, <u>Kangjie Chen</u>, Jun Zhao, and Kwok-Yan Lam
   <br/>
-  *The IEEE Transactions on Information Forensics & Security (TIFS), 2024*
+  *The IEEE Transactions on Information Forensics & Security, TIFS 2024, CCF-A*
 
 - **[Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels](https://kangjie-chen.github.io/files/2024_DSN.pdf)**
   <br/>
   Xiaoxuan Lou\*, <u>Kangjie Chen</u>\*, Guowen Xu, Han Qiu, Shangwei Guo, and Tianwei Zhang
   <br/>
-  *The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024*
+  *The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2024*
 
 - **[BadEdit: Backdooring Large Language Models by Model Editing](https://openreview.net/pdf?id=duZANm2ABX)**
   <br/>
   Yanzhou Li, Tianlin Li\#, <u>Kangjie Chen</u>\#, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, and Yang Liu
   <br/>
-  *International Conference on Learning Representations (ICLR), 2024*
+  *International Conference on Learning Representations, ICLR 2024, CCF-A*
 
 - **[GuardHFL: Privacy Guardian for Heterogeneous Federated Learning](https://proceedings.mlr.press/v202/chen23j/chen23j.pdf)**
   <br/>
   Hanxiao Chen, Meng Hao, Hongwei Li, <u>Kangjie Chen</u>, Guowen Xu, Tianwei Zhang, Xilin Zhang
   <br/>
-  *International Conference on Machine Learning (ICML), 2023* 
+  *International Conference on Machine Learning, ICML 2023, CCF-A* 
 
 - **[Multi-target Backdoor Attacks for Code Pre-trained Models](https://aclanthology.org/2023.acl-long.399.pdf)**
   <br/>
   Yanzhou Li, Shangqing Liu, <u>Kangjie Chen</u>, Xiaofei Xie, Tianwei Zhang, and Yang Liu
   <br/>
-  *The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023* 
+  *The 61st Annual Meeting of the Association for Computational Linguistics, ACL 2023, CCF-A* 
 
 - **[Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/pdf?id=rFQfjDC9Mt)**
   <br/>
   <u>Kangjie Chen</u>, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang
   <br/>
-  *International Conference on Learning Representations (ICLR), 2023*, **Oral** 
+  *International Conference on Learning Representations, ICLR 2023, CCF-A*, **Oral** 
 
 - **[ADS-lead: Lifelong Anomaly Detection in Autonomous Driving Systems](https://kangjie-chen.github.io/files/2022_TITS_ADS-lead.pdf)**
   <br/>
@@ -136,25 +136,25 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
   <br/>
   <u>Kangjie Chen</u>, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan
   <br/>
-  *International Conference on Learning Representations (ICLR), 2022*
+  *International Conference on Learning Representations, ICLR 2022, CCF-A*
 
 - **[Stealing Deep Reinforcement Learning Models for Fun and Profit](https://kangjie-chen.github.io/files/2021_AsiaCCS_Stealing-DRL.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Shangwei Guo, Tianwei Zhang, Xiaofei Xie, Yang Liu
   <br/>
-  *ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2021*
+  *ACM ASIA Conference on Computer and Communications Security, AsiaCCS 2021*
 
 - **[Temporal Watermarks for Deep Reinforcement Learning Models](https://kangjie-chen.github.io/files/2021_AAMAS_DRL-Watermark.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu
   <br/>
-  *International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021*
+  *International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2021*
 
 - **[A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems](https://kangjie-chen.github.io/files/2021_ISPA_Anomaly-Detection.pdf)**
   <br/>
   Xingshuo Han, <u>Kangjie Chen</u>, Yuan Zhou, Meikang Qiu, Chun Fan, Yang Liu, Tianwei Zhang
   <br/>
-  *IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2021*, **Most Innovative Paper Award**
+  *IEEE International Symposium on Parallel and Distributed Processing with Applications, ISPA 2021*, **Most Innovative Paper Award**
 
 - **[Vulnerability Assessment of Deep Reinforcement Learning Models for Power System Topology Optimization](https://ieeexplore.ieee.org/document/9365691)**
   <br/>
@@ -166,7 +166,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
   <br/>
   Jianwen Sun, Tianwei Zhang, Xiaofei Xie, Lei Ma, Yan Zheng, <u>Kangjie Chen</u>, Yang Liu
   <br/>
-  *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020*
+  *Proceedings of the AAAI Conference on Artificial Intelligence, AAAI 2020, CCF-A*
 
 <!-- ## Book -->
 
