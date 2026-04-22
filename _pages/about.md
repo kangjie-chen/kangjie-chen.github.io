@@ -100,7 +100,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
   <br/>
   Xiaoxuan Lou\*, <u>Kangjie Chen</u>\*, Guowen Xu, Han Qiu, Shangwei Guo, and Tianwei Zhang
   <br/>
-  *The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2024*
+  *The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2024, CCF-B*
 
 - **[BadEdit: Backdooring Large Language Models by Model Editing](https://openreview.net/pdf?id=duZANm2ABX)**
   <br/>
@@ -142,13 +142,13 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
   <br/>
   <u>Kangjie Chen</u>, Shangwei Guo, Tianwei Zhang, Xiaofei Xie, Yang Liu
   <br/>
-  *ACM ASIA Conference on Computer and Communications Security, AsiaCCS 2021*
+  *ACM ASIA Conference on Computer and Communications Security, AsiaCCS 2021, CCF-C*
 
 - **[Temporal Watermarks for Deep Reinforcement Learning Models](https://kangjie-chen.github.io/files/2021_AAMAS_DRL-Watermark.pdf)**
   <br/>
   <u>Kangjie Chen</u>, Shangwei Guo, Tianwei Zhang, Shuxin Li, Yang Liu
   <br/>
-  *International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2021*
+  *International Conference on Autonomous Agents and Multiagent Systems, AAMAS 2021, CCF-B*
 
 - **[A Unified Anomaly Detection Methodology for Lane-Following of Autonomous Driving Systems](https://kangjie-chen.github.io/files/2021_ISPA_Anomaly-Detection.pdf)**
   <br/>
