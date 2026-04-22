@@ -12,7 +12,7 @@ redirect_from:
 <br/>
 
 I am currently a Professor at [School of Cybersecurity](https://cse.tju.edu.cn/), Tianjin University. 
-My research focuses on **Trustworthy AI** and **AI for Security**, with particular interests in *safety evaluation for foundation models and agents*, as well as *automated security analysis using LLM based agents*. I am broadly interested in advancing the safety, security, and reliability of foundation models and AI agents in real world applications.
+My research focuses on **Trustworthy AI** and **AI for Security**, with particular interests in *safety evaluation for foundation models and agents*, as well as *automated security analysis using LLM based agents*. More broadly, I am interested in advancing the safety and reliability of AI systems, and in leveraging AI agents for automated security analysis and vulnerability discovery.
 
 Before that, I was a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. degree from Nanyang Technological University advised by Prof. Tianwei Zhang, M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
 
