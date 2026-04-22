@@ -17,7 +17,7 @@ My research focuses on **Trustworthy AI** and **AI for Security**, with particul
 Before that, I was a Research Fellow at Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. degree from Nanyang Technological University advised by Prof. Tianwei Zhang, M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
 
 <h2 style="color:#c62828;">Open Positions</h2>
-I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. Candidates with strong backgrounds in machine learning, artificial intelligence, security, optimization, or related areas are encouraged to get in touch.
+I am actively seeking highly **self-motivated** Master’s students, PhD students, and postdoctoral researchers to join my research group. Candidates with strong backgrounds in machine learning, artificial intelligence, security, or related areas are encouraged to get in touch.
 
 ## Publications
 
