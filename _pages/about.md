@@ -21,6 +21,19 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 ## Publications
 
+
+- **When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models**
+  <br/>
+  Haoran Ou, <u>Kangjie Chen</u>, Xingshuo Han, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang
+  <br/>
+  *Forty-third International Conference on Machine Learning, ICML 2026, CCF-A*
+
+- **Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs**
+  <br/>
+  Chunlong Xie, <u>Kangjie Chen</u>, Shangwei Guo, Shudong Zhang, Jiamou Liu, Tianwei Zhang, Tao Xiang
+  <br/>
+  *Forty-third International Conference on Machine Learning, ICML 2026, CCF-A*
+
 - **TEAR: Temporal-aware Automated Red-teaming for Text-to-Video Models**
   <br/>
   Jiaming He, Guanyu Hou, Hongwei Li, Zhicong Huang, <u>Kangjie Chen</u>, Yi Yu, Wenbo Jiang, Guowen Xu, Tianwei Zhang
