@@ -24,7 +24,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 - **When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models**
   <br/>
-  Haoran Ou, <u>Kangjie Chen</u>, Xingshuo Han, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang
+  Haoran Ou, <u>Kangjie Chen</u>\#, Xingshuo Han, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang
   <br/>
   *Forty-third International Conference on Machine Learning, ICML 2026, CCF-A*
 
