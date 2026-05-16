@@ -54,7 +54,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
   *The Network and Distributed System Security Symposium, NDSS 2026, CCF-A*
 
 
-- **[Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models](https://openreview.net/pdf?id=JIpKkzSqly)**
+- **[Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models](https://papers.nips.cc/paper_files/paper/2025/file/c208972612edba9118cc12185e3d0c77-Paper-Conference.pdf)**
   <br/>
   Chunlong Xie\*, <u>Kangjie Chen</u>\*, Shangwei Guo, Shudong Zhang, Tianwei Zhang, Tao Xiang
   <br/>
