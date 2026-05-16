@@ -60,7 +60,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
   <br/>
   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems, NeurIPS 2025, CCF-A*, **Spotlight**
 
-- **[Analogy-based Multi-Turn Jailbreak against Large Language Models](https://openreview.net/pdf/90ec84387b8d7282640d625e2d28faef32f89000.pdf)**
+- **[Analogy-based Multi-Turn Jailbreak against Large Language Models](https://neurips.cc/virtual/2025/loc/san-diego/poster/117981)**
   <br/>
   Mengjie Wu, Zhenjun Lin, Yihao Huang, <u>Kangjie Chen</u>, Yuyang Zhang, Yuhan Huang, Run Wang, Lina Wang
   <br/>
