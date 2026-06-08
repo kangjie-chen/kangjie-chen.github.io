@@ -22,6 +22,12 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 ## Publications
 
 
+- **A Single Glance Is Better Than Words: Vision-Guided Targeted Concept Erasing**
+  <br/>
+  Yuyang Zhang, Yuxiang Sun, Ke Liang, Junlin Li, <u>Kangjie Chen</u>, Run Wang
+  <br/>
+  *The 33rd ACM Conference on Computer and Communications Security, CCS 2026, CCF-A*
+
 - **When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models**
   <br/>
   Haoran Ou, <u>Kangjie Chen</u>\#, Xingshuo Han, Gelei Deng, Jie Zhang, Han Qiu, Tianwei Zhang
