@@ -193,7 +193,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 
 ## Professional Services
-- Conference Reviewer for ICML, ICLR, NeurIPS, CVPR, AAAI, IJCAI, ICCV
+- Conference Reviewer for ICML, ICLR, NeurIPS, USENIX Security, CVPR, AAAI, IJCAI, ICCV
 - Journal Reviewer for TDSC, TIFS, TIP, TMM, TCSVT
 
 
