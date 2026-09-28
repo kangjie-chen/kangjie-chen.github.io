@@ -21,6 +21,11 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 ## Publications
 
+- **Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment**
+  <br/>
+  Shiqian Zhao, Meiqing Wu, <u>Kangjie Chen</u>, Yi Xie, Tianlin Li, Siew-Kei Lam, Guowen Xu, Anran Li
+  <br/>
+  *IEEE Transactions on Dependable and Secure Computing, TDSC, CCF-A*
 
 - **A Single Glance Is Better Than Words: Vision-Guided Targeted Concept Erasing**
   <br/>
