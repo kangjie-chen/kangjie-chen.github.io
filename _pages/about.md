@@ -21,6 +21,13 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 ## Publications
 
+- **DECEIVE-AFC: Adversarial Claim Attacks against Search-Enabled LLM-based Fact-Checking Systems**
+  <br/>
+  Haoran Ou, <u>Kangjie Chen</u>\#, Gelei Deng, Hangcheng Liu\#, Jie Zhang, Tianwei Zhang, Kwok-Yan Lam 
+  <br/>
+  *The Fortieth Annual Conference on Neural Information Processing Systems, NeurIPS 2026, CCF-A*
+
+
 - **Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment**
   <br/>
   Shiqian Zhao, Meiqing Wu, <u>Kangjie Chen</u>, Yi Xie, Tianlin Li, Siew-Kei Lam, Guowen Xu, Anran Li
@@ -198,6 +205,8 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 
 ## Professional Services
+- Aera Chair for ICLR
+- Senior Program Committee for AAAI
 - Conference Reviewer for ICML, ICLR, NeurIPS, USENIX Security, CVPR, AAAI, IJCAI, ICCV
 - Journal Reviewer for TDSC, TIFS, TIP, TMM, TCSVT
 
