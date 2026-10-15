@@ -205,7 +205,7 @@ I am actively seeking highly **self-motivated** Master’s students, PhD student
 
 
 ## Professional Services
-- Aera Chair for ICLR
+- Area Chair for ICLR
 - Senior Program Committee for AAAI
 - Conference Reviewer for ICML, ICLR, NeurIPS, USENIX Security, CVPR, AAAI, IJCAI, ICCV
 - Journal Reviewer for TDSC, TIFS, TIP, TMM, TCSVT
